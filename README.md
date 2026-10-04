@@ -26,11 +26,11 @@ This portfolio showcases my education, skills, projects and contact information.
 
 🌐 **View my portfolio:**
 
-[View Portfolio](YOUR-GITHUB-PAGES-LINK)
+[View Portfolio](https://reddysubhash75-glitch.github.io/My-portfolio-/)
 
 ## GitHub
 
-[Visit my GitHub Profile](YOUR-GITHUB-PROFILE-LINK)
+[Visit my GitHub] (Profilehttps://github.com/Reddysubhash75-glitch)
 
 ## Author
 
